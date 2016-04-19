@@ -19,7 +19,6 @@ if you want to add more extended functionality. Because Python.
 Loaded interfaces:
     IScannerCheck - Custom scanner issues based on response regex matching
     IProxyListener - Highlights all POST requests in the Proxy HTTP history
-    IIntruder -
 """
 
 
